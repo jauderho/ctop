@@ -11,7 +11,7 @@ require (
 	github.com/nsf/termbox-go v0.0.0-20190121233118-02980233997d
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
 	github.com/op/go-logging v0.0.0-20160211212156-b2cb9fa56473
-	github.com/opencontainers/runc v1.1.5
+	github.com/opencontainers/runc v1.1.14
 	github.com/pkg/browser v0.0.0-20201207095918-0426ae3fba23
 	github.com/pkg/errors v0.9.1
 )
@@ -26,7 +26,7 @@ require (
 	github.com/containerd/console v1.0.3 // indirect
 	github.com/containerd/containerd v1.5.18 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
-	github.com/cyphar/filepath-securejoin v0.2.3 // indirect
+	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
@@ -39,7 +39,7 @@ require (
 	github.com/moby/sys/mountinfo v0.5.0 // indirect
 	github.com/moby/term v0.0.0-20201110203204-bea5bbe245bf // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
-	github.com/mrunalp/fileutils v0.5.0 // indirect
+	github.com/mrunalp/fileutils v0.5.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417 // indirect
@@ -50,9 +50,9 @@ require (
 	github.com/vishvananda/netlink v1.1.0 // indirect
 	github.com/vishvananda/netns v0.0.0-20191106174202-0a2b9b5464df // indirect
 	go.opencensus.io v0.22.3 // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	google.golang.org/protobuf v1.27.1 // indirect
+	golang.org/x/net v0.24.0 // indirect
+	golang.org/x/sys v0.19.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
 
 go 1.18
